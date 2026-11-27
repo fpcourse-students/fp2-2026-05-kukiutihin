@@ -1,0 +1,4 @@
+- arguments: [-XQuasiQuotes]
+- ignore: { within: ClassDispatcher }
+- ignore: { name: Use tuple-section }
+- ignore: { name: Using <$> on tuple }
